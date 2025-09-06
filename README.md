@@ -1,1 +1,1 @@
-# Brain-tumor-segmentation
+# Skin-Lesion-segmentation
